@@ -1,5 +1,5 @@
 ### [Brian](https://pbt.me) is a human being 🧏🏻, avid learner 📖, proud Seattleite 🌃🌅⛰, and software engineer 💻
-- 😄 **Pronouns**: [they/them](https://pronoun.is/they/them/.../themself)
+- 💬 **Pronouns**: [they/them](https://pronoun.is/they/them/.../themself)
 - 🧭 **Working at**: [Compass](https://www.compass.com/careers/)
 - 📫 **The best way to reach me**: [b@pbt.me](mailto:b@pbt.me)
 
