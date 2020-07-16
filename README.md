@@ -1,7 +1,7 @@
-### [Brian](https://pbt.me) is a human being 🧏🏻, avid learner 📖, proud Seattleite 🌃🌅⛰, and software engineer 💻
-- 💬 **Pronouns**: [they/them](https://pronoun.is/they/them/.../themself)
+#### [brian](https://pbt.me) ([they/them](https://pronoun.is/they/them/.../themself)) is a human being 🧏🏻, avid learner 📖, proud Seattleite 🌃🌅⛰, and software engineer 💻
 - 🧭 **Working at**: [Compass](https://www.compass.com/careers/)
 - 📫 **The best way to reach me**: [b@pbt.me](mailto:b@pbt.me)
+- 🌱 **What's got my interest right now:** Snowpack, Deno, kinetic typography, WebGL
 
 
 <!--
