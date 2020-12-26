@@ -1,7 +1,6 @@
 #### [brian](https://pbt.me) ([they/them](https://pronoun.is/they/them/)) is a human being.
 - 🧭 **Working at**: [Compass](https://www.compass.com/careers/)
 - 📫 **The best way to reach me**: [b@pbt.me](mailto:b@pbt.me)
-- 🌱 **What's got my interest right now:** Recoil, WebGL, GraphQL, "invisible" UIs, After Effects
 
 <!--
 **pbt/pbt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
